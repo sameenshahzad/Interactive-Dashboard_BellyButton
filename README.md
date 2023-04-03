@@ -1,6 +1,4 @@
-# Intervactive Dashboard 
-
-## The Belly Buttonn dashboard Displays
+## The Interavtive Belly Buttonn dashboard Displays
 
 1. A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
